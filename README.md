@@ -2,6 +2,10 @@
 
 Este projeto é uma calculadora simples desenvolvida em React com o objetivo de realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão. A calculadora oferece uma interface amigável e permite que os usuários realizem cálculos simples tanto clicando nos botões quanto usando o teclado.
 
+## Demonstração
+
+[Demo](https://calculadora-david-franca.vercel.app)
+
 ## Stack utilizada
 
 **Front-end:** React, Chackra Ui, Typescript
